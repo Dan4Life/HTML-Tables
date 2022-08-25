@@ -1,2 +1,2 @@
 # HTML-Tables
-This is just a demo table assignment
+This is a demo table assignment
